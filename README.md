@@ -11,3 +11,7 @@ Propuesta y materiales del curso de Modelaje de Enfermedades Infecciosas
 
 - Monkeypox
   1. [Datos de la viruela del mono](https://github.com/globaldothealth/monkeypox)
+ 
+- Papers
+    1. Prist, P. R., Siliansky de Andreazzi, C., Vidal, M. M., Zambrana‐Torrelio, C., Daszak, P., Carvalho, R. L., & Tambosi, L. R. (2023). Promoting landscapes with a low zoonotic disease risk through forest restoration: The need for comprehensive guidelines. Journal of Applied Ecology.
+    2. 
