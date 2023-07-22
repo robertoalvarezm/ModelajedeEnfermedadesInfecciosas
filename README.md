@@ -9,7 +9,7 @@ Propuesta y materiales del curso de Modelaje de Enfermedades Infecciosas
   5. [earlyR R Package](https://www.repidemicsconsortium.org/earlyR/articles/earlyR.html)
 
   
-- Vitoria Collizzi
+  - Vitoria Collizzi
     1. [EPIcxLab](https://www.epicx-lab.com/covid-19.html?s=35) 
 
 - Monkeypox
