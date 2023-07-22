@@ -14,4 +14,4 @@ Propuesta y materiales del curso de Modelaje de Enfermedades Infecciosas
  
 - Papers
     1. Prist, P. R., Siliansky de Andreazzi, C., Vidal, M. M., Zambrana‐Torrelio, C., Daszak, P., Carvalho, R. L., & Tambosi, L. R. (2023). Promoting landscapes with a low zoonotic disease risk through forest restoration: The need for comprehensive guidelines. Journal of Applied Ecology.
-    2. 
+    2. Heesterbeek, H., Anderson, R. M., Andreasen, V., Bansal, S., De Angelis, D., Dye, C., ... & Isaac Newton Institute IDD Collaboration. (2015). Modeling infectious disease dynamics in the complex landscape of global health. Science, 347(6227), aaa4339.
